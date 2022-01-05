@@ -98,10 +98,10 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadbaviskar&show_icons=true&locale=en&layout=compact" alt="prasadbaviskar" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarang&show_icons=true&locale=en&layout=compact" alt="sarang" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadbaviskar&show_icons=true&locale=en" alt="prasadbaviskar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarang&show_icons=true&locale=en" alt="sarang" /></p>
 
 - 📫 How to reach me *saranggunjal2015@gmail.com*
 - 👨‍💻 All of my projects are available at [portfolio](Portfolio)
