@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sarang-gunjal-822993121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarang-gunjal" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sarang-gunjal-822993121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarang-gunjal" height="30" width="40" /></a>
 </p>
 
 
@@ -98,10 +98,10 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarang&show_icons=true&locale=en&layout=compact" alt="sarang" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarang&show_icons=true&locale=en&layout=compact" alt="Sarang" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarang&show_icons=true&locale=en" alt="sarang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarang&show_icons=true&locale=en" alt="Sarang" /></p>
 
-- 📫 How to reach me *saranggunjal2015@gmail.com*
+- 📫 How to reach me *saranggunjal2016@gmail.com*
 - 👨‍💻 All of my projects are available at [portfolio](Portfolio)
