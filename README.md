@@ -104,4 +104,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarang&show_icons=true&locale=en" alt="Sarang" /></p>
 
 - 📫 How to reach me *saranggunjal2016@gmail.com*
-- 👨‍💻 All of my projects are available at [portfolio](Portfolio)
+- 👨‍💻 All of my projects are available at [portfolio] (https://sarang-portfolio.netlify.app/)
