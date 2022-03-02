@@ -1,7 +1,7 @@
 <h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarang Gunjal</h1>
 <h4 align="left">I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking for opportunity to creating a mark within a product-based company based on the acquired skillset and passion for coding.</h4>
 
-- 🌱 I’m currently learning **react**<img src="https://media2.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952xul589f9lfg7rlks48hjmgqo3sk5yrg19wfthfma&rid=giphy.gif&ct=s" width="30px">
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **JavaScript**
 
