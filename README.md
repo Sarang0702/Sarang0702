@@ -1,11 +1,15 @@
-<h1 align="center">Hi there  <img style:{height:100px,width:100px} src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarang Gunjal</h1>
+<h1 align="center">Hi there  
+<!--   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+  , I'm Sarang Gunjal</h1>
 <h4 align="left">I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking for opportunity to creating a mark within a product-based company based on the acquired skillset and passion for coding.</h4>
 
 - 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me <img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width="30px" /> **saranggunjal2015@rediffmail.com**
+- 📫 How to reach me 
+<!-- - <img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width="30px" /> -->
+-  **saranggunjal2015@rediffmail.com**
 
 - 👨‍💻 All of my projects are available at [Check My Portfolio](https://sarang-portfolio.netlify.app/)
 
